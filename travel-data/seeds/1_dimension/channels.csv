@@ -1,0 +1,5 @@
+channel_code,channel_name,status_code
+app,App,active
+web,Web站,active
+miniapp,小程序,active
+h5,H5页,active

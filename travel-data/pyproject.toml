@@ -1,0 +1,30 @@
+[project]
+dependencies = [
+  "fastapi>=0.115.0",
+  "pytest>=9.0.0",
+  "pydantic>=2.12.5",
+  "python-dotenv>=1.1.1",
+  "pymysql>=1.1.2",
+  "rich>=14.2.0",
+  "uvicorn>=0.34.0",
+  "tzdata>=2026.2",
+  "httpx>=0.28.1",
+]
+description = "Add your description here"
+name = "travel-data"
+readme = "README.md"
+requires-python = ">=3.12"
+version = "0.1.0"
+
+[dependency-groups]
+dev = [
+  "pyright>=1.1.409",
+  "ruff>=0.15.15",
+]
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[tool.pyright]
+pythonVersion = "3.12"
+typeCheckingMode = "basic"

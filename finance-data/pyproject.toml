@@ -1,0 +1,31 @@
+[project]
+name = "finance-data"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.0",
+    "httpx>=0.28.1",
+    "pydantic>=2.12.5",
+    "rich>=14.2.0",
+    "pymysql>=1.1.1",
+    "pytest>=8.4.1",
+    "python-dotenv>=1.0.1",
+    "tzdata>=2026.2",
+    "uvicorn>=0.34.0",
+]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.407",
+    "ruff>=0.15.17",
+]
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[tool.pyright]
+pythonVersion = "3.12"
+typeCheckingMode = "basic"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

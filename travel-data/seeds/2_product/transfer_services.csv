@@ -1,0 +1,25 @@
+service_code,service_name,service_type_code,area_id,vehicle_type_code,passenger_capacity,supplier_id,status_code,created_at,updated_at
+TSREAL0001,北京机场接机服务,airport_pickup,2,business,5,167,active,2024-01-10 09:00:00,2025-03-04 10:00:00
+TSREAL0002,北京机场送机服务,airport_dropoff,2,business,5,167,active,2024-01-10 09:10:00,2025-03-04 10:10:00
+TSREAL0003,上海机场接机服务,airport_pickup,786,business,5,168,active,2024-01-11 09:00:00,2025-03-04 10:20:00
+TSREAL0004,上海高铁站接送服务,station_transfer,786,comfort,5,169,active,2024-01-11 09:10:00,2025-03-04 10:30:00
+TSREAL0005,南京机场接机服务,airport_pickup,804,comfort,5,170,active,2024-01-12 09:00:00,2025-03-04 10:40:00
+TSREAL0006,杭州机场接机服务,airport_pickup,915,comfort,5,171,active,2024-01-12 09:10:00,2025-03-04 10:50:00
+TSREAL0007,福州高铁站接送服务,station_transfer,1140,economy,4,171,active,2024-01-13 09:00:00,2025-03-04 11:00:00
+TSREAL0008,厦门机场接送服务,airport_dropoff,1154,comfort,5,168,active,2024-01-13 09:10:00,2025-03-04 11:10:00
+TSREAL0009,南昌高铁站接送服务,station_transfer,1223,economy,4,170,active,2024-01-14 09:00:00,2025-03-04 11:20:00
+TSREAL0010,济南商务包车一日游,charter_daily,1335,business,5,175,active,2024-01-14 09:10:00,2025-03-04 11:30:00
+TSREAL0011,青岛机场接送服务,airport_pickup,1348,comfort,5,177,active,2024-01-15 09:00:00,2025-03-04 11:40:00
+TSREAL0012,郑州高铁站接送服务,station_transfer,1491,economy,4,172,active,2024-01-15 09:10:00,2025-03-04 11:50:00
+TSREAL0013,武汉机场接送服务,airport_dropoff,1668,comfort,5,172,active,2024-01-16 09:00:00,2025-03-04 12:00:00
+TSREAL0014,长沙商务包车一日游,charter_daily,1785,business,5,170,active,2024-01-16 09:10:00,2025-03-04 12:10:00
+TSREAL0015,广州白云机场接送服务,airport_pickup,1922,business,5,174,active,2024-01-17 09:00:00,2025-03-04 12:20:00
+TSREAL0016,广州市区包车一日游,charter_daily,1922,van,7,173,active,2024-01-17 09:10:00,2025-03-04 12:30:00
+TSREAL0017,深圳机场接送服务,airport_dropoff,1945,business,5,175,active,2024-01-18 09:00:00,2025-03-04 12:40:00
+TSREAL0018,南宁机场接送服务,airport_pickup,2068,economy,4,172,active,2024-01-18 09:10:00,2025-03-04 12:50:00
+TSREAL0019,桂林包车一日游服务,charter_daily,2092,van,7,177,active,2024-01-19 09:00:00,2025-03-04 13:00:00
+TSREAL0020,重庆机场接送服务,airport_pickup,2238,comfort,5,176,active,2024-01-19 09:10:00,2025-03-04 13:10:00
+TSREAL0021,成都高铁站接送服务,station_transfer,2278,business,5,177,active,2024-01-20 09:00:00,2025-03-04 13:20:00
+TSREAL0022,贵阳市区包车一日游,charter_daily,2476,comfort,5,178,active,2024-01-20 09:10:00,2025-03-04 13:30:00
+TSREAL0023,昆明机场接送服务,airport_dropoff,2574,comfort,5,177,active,2024-01-21 09:00:00,2025-03-04 13:40:00
+TSREAL0024,西安高铁站接送服务,station_transfer,2802,business,5,178,active,2024-01-21 09:10:00,2025-03-04 13:50:00

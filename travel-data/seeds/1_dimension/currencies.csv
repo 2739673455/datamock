@@ -1,0 +1,4 @@
+currency_code,currency_name,symbol,precision_scale,status_code
+CNY,人民币,¥,2,active
+USD,美元,$,2,active
+HKD,港币,HK$,2,active

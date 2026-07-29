@@ -1,0 +1,19 @@
+template_code,template_name,coupon_type_code,applicable_product_type,applicable_supplier_id,currency_code,min_spend_amount,discount_amount,max_discount_amount,total_quantity,per_user_limit,rule_payload,status_code
+TPLREAL0001,新客酒店满300减40,HOTEL_ROOM_CASH,hotel_room,,CNY,300.00,40.00,,50000,1,"{""stackable"": false, ""audience"": ""new_user""}",active
+TPLREAL0002,周末酒店85折券,HOTEL_ROOM_DISCOUNT,hotel_room,,CNY,500.00,0.85,120.00,30000,2,"{""stackable"": false, ""scene"": ""weekend""}",active
+TPLREAL0003,景点门票立减20,SCENIC_TICKET_CASH,scenic_ticket,,CNY,120.00,20.00,,60000,2,"{""stackable"": false}",active
+TPLREAL0004,亲子景区9折券,SCENIC_TICKET_DISCOUNT,scenic_ticket,,CNY,200.00,0.90,60.00,40000,2,"{""stackable"": false, ""scene"": ""family""}",active
+TPLREAL0005,机票跨城出行减50,FLIGHT_CABIN_CASH,flight_cabin,,CNY,800.00,50.00,,25000,1,"{""stackable"": false}",active
+TPLREAL0006,高铁出行立减30,TRAIN_SEAT_CASH,train_seat,,CNY,300.00,30.00,,30000,2,"{""stackable"": false}",active
+TPLREAL0007,汽车票通勤减15,BUS_SEAT_CASH,bus_seat,,CNY,80.00,15.00,,20000,2,"{""stackable"": false}",active
+TPLREAL0008,接送服务满减券,TRANSFER_SERVICE_CASH,transfer_service,,CNY,150.00,25.00,,20000,2,"{""stackable"": false}",active
+TPLREAL0009,暑期故宫亲子优惠券,SCENIC_TICKET_CASH,scenic_ticket,97,CNY,180.00,30.00,,15000,1,"{""stackable"": false, ""season"": ""summer""}",active
+TPLREAL0010,广州白云机场接送立减券,TRANSFER_SERVICE_CASH,transfer_service,174,CNY,180.00,35.00,,12000,1,"{""stackable"": false, ""scene"": ""airport_transfer""}",active
+TPLREAL0011,暑期海滨酒店9折券,HOTEL_ROOM_DISCOUNT,hotel_room,85,CNY,600.00,0.90,180.00,18000,2,"{""stackable"": false, ""season"": ""summer""}",active
+TPLREAL0012,西南高铁联程立减券,TRAIN_SEAT_CASH,train_seat,,CNY,400.00,45.00,,22000,2,"{""stackable"": false, ""region"": ""southwest""}",active
+TPLREAL0013,华东城市酒店连住券,HOTEL_ROOM_CASH,hotel_room,,CNY,700.00,88.00,,16000,2,"{""stackable"": false, ""stay_nights"": 2}",active
+TPLREAL0014,夜游景区85折券,SCENIC_TICKET_DISCOUNT,scenic_ticket,,CNY,100.00,0.85,50.00,26000,2,"{""stackable"": false, ""scene"": ""night_view""}",active
+TPLREAL0015,西安文化景区减25,SCENIC_TICKET_CASH,scenic_ticket,132,CNY,150.00,25.00,,12000,2,"{""stackable"": false, ""city"": ""xian""}",active
+TPLREAL0016,周中机票88折券,FLIGHT_CABIN_DISCOUNT,flight_cabin,,CNY,1000.00,0.88,160.00,10000,1,"{""stackable"": false, ""scene"": ""weekday""}",active
+TPLREAL0017,精选接送服务9折券,TRANSFER_SERVICE_DISCOUNT,transfer_service,,CNY,200.00,0.90,40.00,14000,2,"{""stackable"": false}",active
+TPLREAL0018,海岛景区家庭满减券,SCENIC_TICKET_CASH,scenic_ticket,126,CNY,260.00,40.00,,10000,1,"{""stackable"": false, ""audience"": ""family""}",active

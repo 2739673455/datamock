@@ -1,0 +1,11 @@
+promotion_code,promotion_name,promotion_type_code,currency_code,start_time,end_time,config_payload,status_code,created_at,updated_at
+PRMREAL0001,酒店周末立减活动,min_spend_discount,CNY,2025-01-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""hotel_room"", ""scene"": ""weekend""}",active,2024-12-10 10:00:00,2025-03-16 10:00:00
+PRMREAL0002,景点暑期家庭出游特惠,direct_discount,CNY,2025-06-15 00:00:00,2025-08-31 23:59:59,"{""product_type"": ""scenic_ticket"", ""scene"": ""summer_family""}",active,2025-05-15 10:00:00,2025-06-15 10:00:00
+PRMREAL0003,接送服务早鸟优惠,min_spend_discount,CNY,2025-01-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""transfer_service"", ""scene"": ""airport_transfer""}",active,2024-12-12 10:00:00,2025-03-16 10:10:00
+PRMREAL0004,精选酒店闪促,flashsale,CNY,2025-03-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""hotel_room"", ""scene"": ""flashsale""}",active,2025-02-10 10:00:00,2025-03-16 10:20:00
+PRMREAL0005,城市地标景区夜场优惠,direct_discount,CNY,2025-01-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""scenic_ticket"", ""scene"": ""night_view""}",active,2024-12-14 10:00:00,2025-03-16 10:30:00
+PRMREAL0006,暑期海滨酒店特惠,direct_discount,CNY,2025-06-01 00:00:00,2025-08-31 23:59:59,"{""product_type"": ""hotel_room"", ""scene"": ""seaside_summer""}",active,2025-05-10 10:00:00,2025-06-01 10:00:00
+PRMREAL0007,西南高铁周中促销,min_spend_discount,CNY,2025-01-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""train_seat"", ""scene"": ""weekday_trip""}",active,2024-12-16 10:00:00,2025-03-16 10:40:00
+PRMREAL0008,亲子主题乐园暑期折扣,direct_discount,CNY,2025-06-15 00:00:00,2025-09-01 23:59:59,"{""product_type"": ""scenic_ticket"", ""scene"": ""theme_park_family""}",active,2025-05-20 10:00:00,2025-06-15 10:10:00
+PRMREAL0009,机场接送高峰期补贴,min_spend_discount,CNY,2025-01-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""transfer_service"", ""scene"": ""airport_peak""}",active,2024-12-18 10:00:00,2025-03-16 10:50:00
+PRMREAL0010,西北文化地标联票优惠,bundling,CNY,2025-01-01 00:00:00,2025-12-31 23:59:59,"{""product_type"": ""scenic_ticket"", ""scene"": ""northwest_culture""}",active,2024-12-20 10:00:00,2025-03-16 11:00:00

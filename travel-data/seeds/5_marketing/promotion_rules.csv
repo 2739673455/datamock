@@ -1,0 +1,11 @@
+promotion_id,rule_name,trigger_type_code,trigger_payload,benefit_type_code,benefit_payload,sort_order,status_code,created_at,updated_at
+1,周末满500减80,min_spend,"{""min_spend"": 500}",discount_amount,"{""discount_amount"": 80}",1,active,2024-12-11 10:00:00,2025-03-16 11:00:00
+2,暑期家庭票9折,product_count,"{""min_count"": 2}",discount_rate,"{""discount_rate"": 0.90}",1,active,2025-05-16 10:00:00,2025-06-15 11:00:00
+3,接送满200减30,min_spend,"{""min_spend"": 200}",discount_amount,"{""discount_amount"": 30}",1,active,2024-12-13 10:00:00,2025-03-16 11:10:00
+4,限时直降60,time_window,"{""time_window"": ""18:00-23:00""}",discount_amount,"{""discount_amount"": 60}",1,active,2025-02-11 10:00:00,2025-03-16 11:20:00
+5,夜游景区85折,time_window,"{""time_window"": ""18:00-22:30""}",discount_rate,"{""discount_rate"": 0.85}",1,active,2024-12-15 10:00:00,2025-03-16 11:30:00
+6,海滨酒店满800减120,min_spend,"{""min_spend"": 800}",discount_amount,"{""discount_amount"": 120}",1,active,2025-05-12 10:00:00,2025-06-01 11:00:00
+7,高铁周中满300减40,min_spend,"{""min_spend"": 300}",discount_amount,"{""discount_amount"": 40}",1,active,2024-12-17 10:00:00,2025-03-16 11:40:00
+8,主题乐园家庭票88折,product_count,"{""min_count"": 3}",discount_rate,"{""discount_rate"": 0.88}",1,active,2025-05-21 10:00:00,2025-06-15 11:10:00
+9,机场接送满180减25,min_spend,"{""min_spend"": 180}",discount_amount,"{""discount_amount"": 25}",1,active,2024-12-19 10:00:00,2025-03-16 11:50:00
+10,双景区联购减50,product_count,"{""min_count"": 2}",discount_amount,"{""discount_amount"": 50}",1,active,2024-12-21 10:00:00,2025-03-16 12:00:00

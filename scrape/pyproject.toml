@@ -1,0 +1,16 @@
+[project]
+name = "scrape"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "curl-cffi>=0.15.0",
+    "scrapling>=0.4.9",
+]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.410",
+    "ruff>=0.15.17",
+]

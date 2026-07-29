@@ -1,0 +1,81 @@
+scenic_spot_id,ticket_type_code,ticket_type_name,ticket_category_code,benefit_payload,status_code,created_at,updated_at
+1,SCENICREAL0001_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-10 10:00:00,2025-03-11 14:00:00
+1,SCENICREAL0001_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-10 10:10:00,2025-03-11 14:10:00
+2,SCENICREAL0002_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-11 10:00:00,2025-03-11 14:20:00
+2,SCENICREAL0002_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-11 10:10:00,2025-03-11 14:30:00
+3,SCENICREAL0003_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-12 10:00:00,2025-03-11 14:40:00
+3,SCENICREAL0003_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-12 10:10:00,2025-03-11 14:50:00
+4,SCENICREAL0004_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-13 10:00:00,2025-03-11 15:00:00
+4,SCENICREAL0004_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-13 10:10:00,2025-03-11 15:10:00
+5,SCENICREAL0005_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-14 10:00:00,2025-03-11 15:20:00
+5,SCENICREAL0005_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-14 10:10:00,2025-03-11 15:30:00
+6,SCENICREAL0006_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-15 10:00:00,2025-03-11 15:40:00
+6,SCENICREAL0006_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-15 10:10:00,2025-03-11 15:50:00
+7,SCENICREAL0007_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-16 10:00:00,2025-03-11 16:00:00
+7,SCENICREAL0007_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-16 10:10:00,2025-03-11 16:10:00
+8,SCENICREAL0008_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-17 10:00:00,2025-03-11 16:20:00
+8,SCENICREAL0008_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-01-17 10:10:00,2025-03-11 16:30:00
+9,SCENICREAL0009_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-18 10:00:00,2025-03-11 16:40:00
+9,SCENICREAL0009_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-01-18 10:10:00,2025-03-11 16:50:00
+10,SCENICREAL0010_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-19 10:00:00,2025-03-11 17:00:00
+10,SCENICREAL0010_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-19 10:10:00,2025-03-11 17:10:00
+11,SCENICREAL0011_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-20 10:00:00,2025-03-11 17:20:00
+11,SCENICREAL0011_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-20 10:10:00,2025-03-11 17:30:00
+12,SCENICREAL0012_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-21 10:00:00,2025-03-11 17:40:00
+12,SCENICREAL0012_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-21 10:10:00,2025-03-11 17:50:00
+13,SCENICREAL0013_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-22 10:00:00,2025-03-11 18:00:00
+13,SCENICREAL0013_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-22 10:10:00,2025-03-11 18:10:00
+14,SCENICREAL0014_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-23 10:00:00,2025-03-11 18:20:00
+14,SCENICREAL0014_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-23 10:10:00,2025-03-11 18:30:00
+15,SCENICREAL0015_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-24 10:00:00,2025-03-11 18:40:00
+15,SCENICREAL0015_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-24 10:10:00,2025-03-11 18:50:00
+16,SCENICREAL0016_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-25 10:00:00,2025-03-11 19:00:00
+16,SCENICREAL0016_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-01-25 10:10:00,2025-03-11 19:10:00
+17,SCENICREAL0017_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-26 10:00:00,2025-03-11 19:20:00
+17,SCENICREAL0017_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-26 10:10:00,2025-03-11 19:30:00
+18,SCENICREAL0018_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-27 10:00:00,2025-03-11 19:40:00
+18,SCENICREAL0018_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-01-27 10:10:00,2025-03-11 19:50:00
+19,SCENICREAL0019_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-28 10:00:00,2025-03-11 20:00:00
+19,SCENICREAL0019_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-28 10:10:00,2025-03-11 20:10:00
+20,SCENICREAL0020_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-29 10:00:00,2025-03-11 20:20:00
+20,SCENICREAL0020_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-29 10:10:00,2025-03-11 20:30:00
+21,SCENICREAL0021_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-30 10:00:00,2025-03-11 20:40:00
+21,SCENICREAL0021_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-30 10:10:00,2025-03-11 20:50:00
+22,SCENICREAL0022_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-31 10:00:00,2025-03-11 21:00:00
+22,SCENICREAL0022_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-01-31 10:10:00,2025-03-11 21:10:00
+23,SCENICREAL0023_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-01 10:00:00,2025-03-11 21:20:00
+23,SCENICREAL0023_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-01 10:10:00,2025-03-11 21:30:00
+24,SCENICREAL0024_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-02 10:00:00,2025-03-11 21:40:00
+24,SCENICREAL0024_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-02 10:10:00,2025-03-11 21:50:00
+25,SCENICREAL0025_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-03 10:00:00,2025-03-11 22:00:00
+25,SCENICREAL0025_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-03 10:10:00,2025-03-11 22:10:00
+26,SCENICREAL0026_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-04 10:00:00,2025-03-11 22:20:00
+26,SCENICREAL0026_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-04 10:10:00,2025-03-11 22:30:00
+27,SCENICREAL0027_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-05 10:00:00,2025-03-11 22:40:00
+27,SCENICREAL0027_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-05 10:10:00,2025-03-11 22:50:00
+28,SCENICREAL0028_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-06 10:00:00,2025-03-11 23:00:00
+28,SCENICREAL0028_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-06 10:10:00,2025-03-11 23:10:00
+29,SCENICREAL0029_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-07 10:00:00,2025-03-11 23:20:00
+29,SCENICREAL0029_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-02-07 10:10:00,2025-03-11 23:30:00
+30,SCENICREAL0030_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-08 10:00:00,2025-03-11 23:40:00
+30,SCENICREAL0030_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-08 10:10:00,2025-03-11 23:50:00
+31,SCENICREAL0031_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-09 10:00:00,2025-03-12 00:00:00
+31,SCENICREAL0031_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-09 10:10:00,2025-03-12 00:10:00
+32,SCENICREAL0032_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-10 10:00:00,2025-03-12 00:20:00
+32,SCENICREAL0032_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-10 10:10:00,2025-03-12 00:30:00
+33,SCENICREAL0033_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-11 10:00:00,2025-03-12 00:40:00
+33,SCENICREAL0033_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-11 10:10:00,2025-03-12 00:50:00
+34,SCENICREAL0034_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-12 10:00:00,2025-03-12 01:00:00
+34,SCENICREAL0034_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-12 10:10:00,2025-03-12 01:10:00
+35,SCENICREAL0035_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-13 10:00:00,2025-03-12 01:20:00
+35,SCENICREAL0035_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-02-13 10:10:00,2025-03-12 01:30:00
+36,SCENICREAL0036_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-14 10:00:00,2025-03-12 01:40:00
+36,SCENICREAL0036_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-14 10:10:00,2025-03-12 01:50:00
+37,SCENICREAL0037_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-15 10:00:00,2025-03-12 02:00:00
+37,SCENICREAL0037_NIGHT_02,夜场票,night,"{""enter_times"": 1, ""refund_rule"": ""non_refundable""}",active,2024-02-15 10:10:00,2025-03-12 02:10:00
+38,SCENICREAL0038_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-16 10:00:00,2025-03-12 02:20:00
+38,SCENICREAL0038_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-16 10:10:00,2025-03-12 02:30:00
+39,SCENICREAL0039_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-17 10:00:00,2025-03-12 02:40:00
+39,SCENICREAL0039_FAMILY_02,家庭票,family,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-17 10:10:00,2025-03-12 02:50:00
+40,SCENICREAL0040_ADULT_01,成人票,adult,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-18 10:00:00,2025-03-12 03:00:00
+40,SCENICREAL0040_STUDENT_02,学生票,student,"{""enter_times"": 1, ""refund_rule"": ""T-1 free""}",active,2024-02-18 10:10:00,2025-03-12 03:10:00
